@@ -6,7 +6,7 @@ int test(int a, int b);
 int main()
 {
 	printf("\n--------------------------------------------");
-	printf("\n\tSimple Gpa Calculator\n\tby weng");
+	printf("\n\tSimple Gpa Calculator");
 	printf("\n--------------------------------------------\n");
 	printf("\n--------------------------------------------");
     int number, score;
@@ -24,7 +24,6 @@ int main()
 	 scanf("%d", &unit[x]);
 	 test(score,unit[x]); 
 	 result[x]= test(score,unit[x]);
-	 printf("SCORE CONVERTED: %d", result[x]);
 	 totalCourse = totalCourse+result[x];
 	 totalUnit = totalUnit+unit[x];
 	 printf("\n----------");

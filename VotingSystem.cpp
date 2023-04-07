@@ -17,7 +17,7 @@ bool tieFinder(int[],int);//finds if there are any ties within the loop if any n
 
 int main(){
 	cout<<"\n--------------------------------------------\n";
-	cout<<"\tVOTING MANAGEMENT SYSTEM\n\tby weng";
+	cout<<"\tVOTING MANAGEMENT SYSTEM";
 	cout<<"\n--------------------------------------------\n";
     int storeRegNumber[1000];//to store the valid regnumber
     int numTimesPicked[1000] = {0};//to store the number of votes each person has
@@ -134,7 +134,7 @@ int main(){
 	        int sum = 0;
 			bool foundTies = tieFinder(numTimesPicked,lenPicked);//function returns true if a number repaest itself
 			int winner = winnerChecker(numTimesPicked,lenPicked);//function returns the value with the highest votes
-			for(int i:numTimesPicked)//for in range loop to check the total number of votes assigns the value to sum
+			for(int i = 0; i<lenPicked; i++)//for in range loop to check the total number of votes assigns the value to sum
 			sum = sum+i;
 		    if(sum > 0){//if sum > 0 means someone has voted
 	        cout<<"\n-------\t------\t------------------";

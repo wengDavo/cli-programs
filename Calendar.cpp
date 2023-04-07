@@ -7,7 +7,7 @@ void printCalendar(string,int,int);
 int main()
 {
 	cout<<"\n--------------------------------------------\n";
-	cout<<"\tCALENDAR\n\tby weng";
+	cout<<"\tCALENDAR";
 	cout<<"\n--------------------------------------------\n";
 	cout<<"\n--------------------------------------------\n";
 	int year, firstDay, febDay;

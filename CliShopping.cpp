@@ -6,7 +6,7 @@ double discount(double);
 
 int main(){
 	cout<<"\n--------------------------------------------\n";
-	cout<<"\tCLI SHOPPING SYSTEM\n\tby weng";
+	cout<<"\tCLI SHOPPING SYSTEM";
 	cout<<"\n--------------------------------------------\n";
 	cout<<"\n--------------------------------------------\n";
 	int count,item;
