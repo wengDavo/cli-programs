@@ -9,7 +9,7 @@ the space complexity is 0(1)
 
 ## Shopping
 a program that allows you to select items from a store and apllies a discount when a specified amount is surpassed\
-your receipt is being printed at the end of the program, which is set to run 10 times\
+your receipt is being printed at the end of the program, which is set to run 10 times
 
 ## Gpa Calculator
 a program which helps you calculate your gpa based on the scores being inputted, it is based on the 5.0 point grading system
@@ -20,7 +20,7 @@ a tic tac toe games made with python, this needs a bit of installation\
 2. secondly i'm just realising this is supposed to be a CLI based repository so this GUI based tic ytac toe game isn't supposed to be here
 
 ## Voting System
-a program that allows user to vote,\
+a program that allows user to vote, and allows admins to view the results\
 ADMINs\
 This program doesn't come with prdefined Parties\
 1.Select 1 to Register Parties, and input the PIN which is '1234' from there you'll be able to register parties and the party's candidates\
