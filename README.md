@@ -3,9 +3,9 @@ Programs made for command line interfaces
 
 
 ## Calendar
-a program made with c++ to produyce the calendar for the given year, when the program is run it asks for the given year to be inputed
-the time complexity is 0(1) as it doesn't depend on the year being inputed
-the space complexity is 0(1)
+a program made with c++ to produyce the calendar for the given year, when the program is run it asks for the given year to be inputed\
+the time complexity is 0(1) as it doesn't depend on the year being inputed\
+the space complexity is 0(1)\
 
 ## Shopping
 a program that allows you to select items from a store and apllies a discount when a specified amount is surpassed
