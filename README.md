@@ -2,24 +2,24 @@
 Programs made for command line interfaces
 
 
-##Calendar
+## Calendar
 a program made with c++ to produyce the calendar for the given year, when the program is run it asks for the given year to be inputed
 the time complexity is 0(1) as it doesn't depend on the year being inputed
 the space complexity is 0(1)
 
-##Shopping
+## Shopping
 a program that allows you to select items from a store and apllies a discount when a specified amount is surpassed
 your receipt is being printed at the end of the program, which is set to run 10 times
 
-##Gpa Calculator
+## Gpa Calculator
 a program which helps you calculate your gpa based on the scores being inputted, it is based on the 5.0 point grading system
 
-##Tic Tac Toe
+## Tic Tac Toe
 a tic tac toe games made with python, this needs a bit of installation
 1.Customtkkinter, a GUI librarry made by TomSchimansky based on python's tkinter library I used customtkinter because i didnit't quite the look and feel and python's base tkinter library, look up TomSchimansky on GitHub you'll find the repositiry there 
 2. secondly i'm just realising this is supposed to be a CLI based repository so this GUI based tic ytac toe game isn't supposed to be here
 
-##Voting System
+## Voting System
 a program that allows user to vote,
 ADMINs
 This program doesn't come with prdefined Parties
