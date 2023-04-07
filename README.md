@@ -16,15 +16,15 @@ a program which helps you calculate your gpa based on the scores being inputted,
 
 ## Tic Tac Toe
 a tic tac toe games made with python, this needs a bit of installation\
-1.Customtkkinter, a GUI librarry made by TomSchimansky based on python's tkinter library I used customtkinter because i didnit't quite the look and feel and python's base tkinter library, look up TomSchimansky on GitHub you'll find the repositiry there 
-2. secondly i'm just realising this is supposed to be a CLI based repository so this GUI based tic ytac toe game isn't supposed to be here
+[1].Customtkkinter, a GUI librarry made by TomSchimansky based on python's tkinter library I used customtkinter because i didnit't quite the look and feel and python's base tkinter library, look up TomSchimansky on GitHub you'll find the repositiry there\
+[2]. secondly i'm just realising this is supposed to be a CLI based repository so this GUI based tic ytac toe game isn't supposed to be here
 
 ## Voting System
 a program that allows user to vote, and allows admins to view the results\
 ADMINs\
 This program doesn't come with prdefined Parties\
-1.Select 1 to Register Parties, and input the PIN which is '1234' from there you'll be able to register parties and the party's candidates\
-2.Select 4 after the Voting has been done, you would also have to input the PIN which is '1234', there you would see the winner if there is any, or a tie if the process ended in a tie, the total number of votes, each party its candidate and how many votes each party had \
+[1].Select 1 to Register Parties, and input the PIN which is '1234' from there you'll be able to register parties and the party's candidates\
+[2].Select 4 after the Voting has been done, you would also have to input the PIN which is '1234', there you would see the winner if there is any, or a tie if the process ended in a tie, the total number of votes, each party its candidate and how many votes each party had \
 VOTERs\
-1.Select 2 to register, you have to be a registered voter,  providing your age and name you get a unique randomly generetaed number wich conforms to specific checks, it is not just randomly generated, if you do not register you won't be able to vote as you need to provide your Registration number to vote\
-2.Select 3, to vote you input your Registration Number, and it checks to see if it is a valid Registration Number and then you select your prefered candidate\
+[1].Select 2 to register, you have to be a registered voter,  providing your age and name you get a unique randomly generetaed number wich conforms to specific checks, it is not just randomly generated, if you do not register you won't be able to vote as you need to provide your Registration number to vote\
+[2].Select 3, to vote you input your Registration Number, and it checks to see if it is a valid Registration Number and then you select your prefered candidate
